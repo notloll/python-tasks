@@ -107,13 +107,5 @@ else:
     print("Is palindrome: No")
 
 print("Reversed: ",revchar)
-'''
 
-new_number= random.randint(1,100)
-attempts = 7
-
-
-while attempts==0:
-    cas
-'''
 

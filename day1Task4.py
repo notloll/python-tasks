@@ -1,7 +1,7 @@
 import random
 
 #task 4
-'''
+
 print("Welcome to Number Guessing Game!")
 
 attempts = 0
@@ -26,6 +26,5 @@ while True:
     if play_agin.lower() !='y':
         break
         
-'''
 
-#task 5
+
